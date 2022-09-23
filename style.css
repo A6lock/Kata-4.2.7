@@ -130,10 +130,10 @@ li {
 .button::after {
   content: "";
   position: absolute;
-  top: -9px;
-  right: 16px;
+  top: -4px;
+  right: 19px;
   width: 4px;
-  height: 55px;
+  height: 50px;
   background-color: #FF0000;
   transform: rotate(45deg);
 }
@@ -141,10 +141,10 @@ li {
 .button::before {
   content: "";
   position: absolute;
-  top: -9px;
-  right: 16px;
+  top: -4px;
+  right: 19px;
   width: 4px;
-  height: 55px;
+  height: 50px;
   background-color: #FF0000;
   transform: rotate(-45deg);
 }
