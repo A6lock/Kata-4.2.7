@@ -78,6 +78,7 @@ li {
   word-break: break-all;
   color: #000000;
   transition: all 0.1s;
+  cursor: pointer;
 }
 
 .search__item:hover {
@@ -125,6 +126,7 @@ li {
   background-color: inherit;
   height: 42px;
   width: 42px;
+  cursor: pointer;
 }
 
 .button::after {
